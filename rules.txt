@@ -1,0 +1,7 @@
+-	Depending on the level of the game, the user has to enter the required number of words; if the user enters 
+more or less  depending on the level, they won't be able to go to the next stage of play
+-	The user  has only 6 attempts to determine the wordle word
+-	The player has to enter only words in the English dictionary
+Results Display
+   T= The character is in the  wordle word and also in the correct position
+   F= The Character  is  in the wordle word but in the wrong position
